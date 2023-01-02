@@ -1,4 +1,6 @@
 accelerate
+bitsandbytes
+diffusers
 torchvision
 transformers>=4.25.1
 ftfy
